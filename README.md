@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Christelle Alexia Nizeyimana
 
 ## 🚀 About Me
-I'm a junior developer with a passion for building web applications using React. I'm constantly learning and exploring new front-end technologies to enhance my skills and contribute to exciting projects.
+I'm a junior software developer with a passion for building web applications using React. I'm constantly learning and exploring new front-end technologies to enhance my skills and contribute to exciting projects.
 
 
 ## 🛠️ Technologies & Tools
